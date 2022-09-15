@@ -7,15 +7,17 @@ h1{
 }
 .mmm{
     color: orange;
+    
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .mmm1{
-    width: 50%;
+    width: 40%;
     padding-left: 5%;
     padding-top: 3%;
-    padding-right: 5%;
+    padding-right: 4%;
 }
 .mmm1 img{
     width: 100%;
@@ -33,8 +35,9 @@ section{
     background-image: url(b5mS4.png);
     background-repeat: no-repeat;
     background-size: 50px;
-
 }
-    .margin-left{
-        margin-left: 20px;
-    }
+.dream-big{
+    background-image: url(images2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
